@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">GoPetting</string>
+    <string name="app_name_style"><b>Go</b>Petting</string>
+
+    <!-- Activity names -->
+    <string name="home_activity">Home</string>
+    <string name="details_activity">Details</string>
+    <string name="login_activity">Login</string>
+    <string name="cart_activity">Cart</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="loading">Loading...</string>
+
+    <string name="not_a_member">Not a member? <b><u>SignUp</u></b> now.</string>
+    <string name="already_a_member">Already a member? <b><u>Login</u></b>.</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="create_account">Create Account</string>
+    <string name="type"><b>Type #</b></string>
+    <string name="title_activity_maps">Map</string>
+    <string name="auth_failed">Authentication Failed</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="profile">Profile</string>
+    <string name="address"><b><u>Address</u></b></string>
+    <string name="welcome"><b><u><i>Welcome to :</i></u></b></string>
+    <string name="zipcode"><b><u>ZipCode</u></b></string>
+    <string name="student"><b><u>Student</u></b></string>
+    <string name="subjects"><b><u>Subject(s) Opted</u></b></string>
+    <string name="bio"><b><u>Bio</u></b></string>
+    <string name="tutoring"><b><u>Student Tutoring :</u></b></string>
+    <string name="event">Event</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_cart">Cart</string>
+
+</resources>

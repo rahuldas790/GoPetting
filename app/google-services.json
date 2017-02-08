@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632697502208",
+    "firebase_url": "https://gopetting-9d336.firebaseio.com",
+    "project_id": "gopetting-9d336",
+    "storage_bucket": "gopetting-9d336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632697502208:android:a91f04b098d40f94",
+        "android_client_info": {
+          "package_name": "rahulkumardas.gopetting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632697502208-nddlklrk15s88iunftiim298ingdq04k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSEhOA7wtGy5dp5x3X2w04uVvxK3xNzG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632697502208-nddlklrk15s88iunftiim298ingdq04k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
